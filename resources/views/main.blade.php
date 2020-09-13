@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="header_text">
-            <h1>из швейцарии в украину</h1>
+            <h1>из Европы или США в украину</h1>
             <div class="header_text_info">найдём<br>
                 и привезём<br>
                 <span class="color_red">железного</span></div>
@@ -40,7 +40,7 @@
         <div class="h-container">
             <div class="h-container_point bg_red">1</div>
             <h2>
-                решаем <br>эти боли
+                Твой мотоцикл -<br>твое второе Я
             </h2>
         </div>
         <div class="flex-between">
@@ -49,9 +49,9 @@
                 <div class="decide-problem_elem_img">
                     <img src="/img/bike-1.png" alt="" height="180" width="300">
                 </div>
-                <h3>ПОДБОР</h3>
+                <h3>ПОДБОР ИЛИ ПРИВОЗ</h3>
                 <div class="decide-problem_elem_text">
-                    Подберём мотоцикл, который станет Твоим вторым Я
+                    Найдем и привезем мотоцикл которій станет твоим спутником
                 </div>
             </div>
 
@@ -59,9 +59,9 @@
                 <div class="decide-problem_elem_img">
                     <img src="/img/bike-2.png" alt="" height="180" width="300">
                 </div>
-                <h3>ПОДБОР</h3>
+                <h3>СОСТОЯНИЕ</h3>
                 <div class="decide-problem_elem_text">
-                    Подберём мотоцикл, который станет Твоим вторым Я
+                    Вам не прийдеться вкладывать в него деньги, так как мы его полностью проверили
                 </div>
             </div>
 
@@ -69,19 +69,14 @@
                 <div class="decide-problem_elem_img">
                     <img src="/img/bike-3.png" alt="" height="180" width="300">
                 </div>
-                <h3>ПОДБОР</h3>
+                <h3>Экономия</h3>
                 <div class="decide-problem_elem_text">
-                    Подберём мотоцикл, который станет Твоим вторым Я
+                    С нами вы экономите деньги, нервы и время
                 </div>
             </div>
         </div>
         <div class="decide-problem_content">
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec
-            pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a,
-            venenatis vitae, justo.
+            Подбирая вам мотоцикл мы обращаем на 100 и один критерий, что бы клиенты оставались всегда добольны привезенным мотоциклом. Путь это будет или Yamaha, Honda, Kawassaki, спортивный. чопер, городской или любой другой, мы тчательно продиагностируем каждый, так как мы ценим кажого клиента.
         </div>
     </div>
 </div>
@@ -212,7 +207,6 @@
                         приборов
                     </div>
                     <div>Состояние проводки, наличие<br>
-                        посторонних скруток и установку<br>
                         «колхозных» элементов
                     </div>
 
@@ -220,21 +214,18 @@
                     </h3>
 
                     <div>Износ расходных запчастей</div>
-                    <div>Наличие ржавчины</div>
+                    <div>Наличие ржавчины и коозии</div>
                     <div>Наличие следов ДТП<br>
                         и падений
                     </div>
-                    <div>Соответствие стоку</div>
+                    <div>Соответствие официальной<br> комплектации</div>
                 </div>
                 <div class="check-bike_bg_second-column">
                     <h3>Ходовую часть:</h3>
 
-                    <div>Состояние передней вилки <br>
-                        и амортизаторов
+                    <div>Состояние амортизаторов
                     </div>
                     <div>Состояние тормозной системы<br>
-                        (суппорта, тормозные диски, <br>
-                        тормозные шланги)
                     </div>
                     <div>Наличие люфтов</div>
                     <div>Износ и состояние покрышек</div>
@@ -270,7 +261,7 @@
         <ul class="why-me_list">
             <li>Ты сохранишь до 2-х недель своего времени;</li>
             <li> Мы умеем минимизировать время на поиск и стоимость доставки мото;</li>
-            <li>Мы знаем все нюансы таможенного оформления при доставке из Швейцарии;</li>
+            <li>Мы знаем все нюансы таможенного оформления при доставке из Европы и США;</li>
             <li> Мы знаем как растаможить мотоцикл в Украине и пройти сертификацию;</li>
             <li> У тебя будет честный мотоцикл с историей, без технических проблем;</li>
             <li>Мы никуда не пропадаем – всегда тебе поможем советом и делом в твоей мото жизни :)</li>
@@ -287,38 +278,38 @@
         <div class="some-numbers_content">
             <div class="some-numbers_block">
                 <div class="some-numbers_block_numbers">
-                    <div class="some-numbers_block_numbers_number">1</div>
+                    {{--<div class="some-numbers_block_numbers_number">1</div>--}}
                     <div class="some-numbers_block_numbers_number">3</div>
                     <div class="some-numbers_block_numbers_text row-2">
-                        Лет успешной<br> работы
+                        Года успешной<br> работы
                     </div>
                 </div>
-                <div class="some-numbers_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </div>
+                <div class="some-numbers_text">Мы начинали привозить мотоциклы для друзей, тепреь мы  это делаем для других </div>
 
             </div>
             <div class="some-numbers_block">
                 <div class="some-numbers_block_numbers">
                     <div class="some-numbers_block_numbers_number">3</div>
-                    <div class="some-numbers_block_numbers_number">7</div>
+                    <div class="some-numbers_block_numbers_number">2</div>
+                    {{--<div class="some-numbers_block_numbers_number">5</div>--}}
+                    <div class="some-numbers_block_numbers_text row-3">
+                        Байков<br> привезли<br>
+                        с США и Европы
+                    </div>
+                </div>
+                <div class="some-numbers_text">Мы подбираем лучшие байки с аукционов США или привозим лично с любой точки Европы </div>
+
+            </div>
+            <div class="some-numbers_block">
+                <div class="some-numbers_block_numbers">
+                    <div class="some-numbers_block_numbers_number">8</div>
                     <div class="some-numbers_block_numbers_number">5</div>
                     <div class="some-numbers_block_numbers_text row-3">
                         Байков<br> подобрано<br>
                         в Украине
                     </div>
                 </div>
-                <div class="some-numbers_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </div>
-
-            </div>
-            <div class="some-numbers_block">
-                <div class="some-numbers_block_numbers">
-                    <div class="some-numbers_block_numbers_number">1</div>
-                    <div class="some-numbers_block_numbers_number">3</div>
-                    <div class="some-numbers_block_numbers_text row-3">
-                        Байков<br> подобрано<br>
-                        в Украине
-                    </div>
-                </div>
-                <div class="some-numbers_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </div>
+                <div class="some-numbers_text">Иногда, люди не хотят ждать и мы подбираем мотоциклы на втуреннем рынке Украины</div>
             </div>
         </div>
     </div>
@@ -346,7 +337,9 @@
                         </div>
                         <div class="col_item">
                             <h3 class="item_title">здоровьем</h3>
-                            <p class="item_description some-numbers_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+                            <p class="item_description some-numbers_text">
+                                Мотоцкл, побывавший в серьезном ДТП, может вести себ непредсказуемо. Поэтому экономия  ві рискуете своим здороьем.
+                            </p>
                         </div>
                     </div>
                     <div class="row_col">
@@ -355,7 +348,8 @@
                         </div>
                         <div class="col_item">
                             <h3 class="item_title">деньгами</h3>
-                            <p class="item_description some-numbers_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+                            <p class="item_description some-numbers_text">
+                                Мотоцикл может быть в угоне, со штрафом или иметь скрытые поврежедния или изношены дорогие детали.            </p>
                         </div>
                     </div>
                 </div>
@@ -367,7 +361,7 @@
                         </div>
                         <div class="col_item">
                             <h3 class="item_title">временем</h3>
-                            <p class="item_description some-numbers_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+                            <p class="item_description some-numbers_text"> Которое вы потратите на СТО или ожидая деталей из Европы.</p>
                         </div>
                     </div>
                     <div class="row_col">
@@ -376,7 +370,7 @@
                         </div>
                         <div class="col_item">
                             <h3 class="item_title">нервами</h3>
-                            <p class="item_description some-numbers_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+                            <p class="item_description some-numbers_text">Попытки вернуть мотоцикл мошейнику,  </p>
                         </div>
                     </div>
                 </div>
